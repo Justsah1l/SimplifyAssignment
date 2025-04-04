@@ -1,5 +1,6 @@
 Simplify Assignment for Frontend Developer Intern role
 These are setps to setup the React Native code in your local machine, after that use this commad to run the app instead of npm start
+apk link - https://drive.google.com/file/d/1Pc8MQrG09cA6y20HmR8qMvHtVUfBTOPZ/view?usp=sharing
 
 ## Instead of 
 ```sh
