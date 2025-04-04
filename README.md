@@ -1,5 +1,5 @@
 Simplify Assignment for Frontend Developer Intern role
-These are setps to setup the code in your local machine, after that use this commad to run the app instead of npm start
+These are setps to setup the React Native code in your local machine, after that use this commad to run the app instead of npm start
 
 ```sh
 npx react-native run-android
